@@ -1,0 +1,23 @@
+{
+  "name": "apple-model-names",
+  "version": "1.1.7",
+  "description": "Convert Apple hardware strings into human-readable names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apple",
+    "translate",
+    "device",
+    "names",
+    "hardware",
+    "strings"
+  ],
+  "author": "Google Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twitter-fabric/apple-model-names/issues"
+  },
+  "homepage": "https://github.com/twitter-fabric/apple-model-names#readme"
+}
